@@ -37,4 +37,3 @@ curl -o frp_manager.sh https://raw.githubusercontent.com/arctan303/frp-auto-inst
 ```bash
 wget -O frp_manager.sh https://arctan.top/share/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
 ```
-```
