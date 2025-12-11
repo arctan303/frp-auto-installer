@@ -33,3 +33,8 @@ wget -O frp_manager.sh https://raw.githubusercontent.com/arctan303/frp-auto-inst
 ```bash
 curl -o frp_manager.sh https://raw.githubusercontent.com/arctan303/frp-auto-installer/main/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
 ```
+### 🔹方式 2：从 arctan.top 镜像下载（备用源）
+```bash
+wget -O frp_manager.sh https://arctan.top/share/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
+```
+```
