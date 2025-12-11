@@ -21,11 +21,15 @@
 
 ## 📥 安装与运行
 
-在任意 Linux 服务器终端执行：
+在任意 Linux 服务器终端执行以下任意方式下载安装：
 
-```bash
-wget -O frp_manager.sh https://arctan.top/share/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
-或者使用github源
+### 🔹方式 1：从 GitHub Raw 下载（推荐）
 
 ```bash
 wget -O frp_manager.sh https://raw.githubusercontent.com/arctan303/frp-auto-installer/main/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
+```
+或使用 curl：
+
+```bash
+curl -o frp_manager.sh https://raw.githubusercontent.com/arctan303/frp-auto-installer/main/frp_manager.sh && chmod +x frp_manager.sh && ./frp_manager.sh
+```
